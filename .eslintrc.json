@@ -41,6 +41,8 @@
     "no-useless-constructor": "off",
     "no-empty-function": "off",
     "lines-between-class-members": "off",
+    "no-undef": "off",
+    "@typescript-eslint/no-var-requires": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
